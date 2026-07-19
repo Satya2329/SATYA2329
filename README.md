@@ -25,12 +25,13 @@ I am passionate about building robust backend applications, exploring relational
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Satya2329&show_icons=true&theme=dark" alt="Satya's GitHub Stats" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya2329&theme=dark" alt="Satya's Streak Stats" height="160px" />
-</p>
-<!-- For Java -->
+  <!-- For Java -->
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 <!-- For JavaScript -->
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 ---
 
 ### 🤝 Let's Connect!
