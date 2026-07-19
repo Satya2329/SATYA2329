@@ -19,10 +19,11 @@ I am passionate about building robust backend applications, exploring relational
 
 ---
 
+
 ### 🔥 My Coding Activity & Metrics
 
-![Satya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satya2329&show_icons=true&theme=dark)
-![Satya's Streak Stats](https://github-readme-streak-stats.vercel.app/?user=Satya2329&theme=dark)
+![Satya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Satya2329&show_icons=true&theme=dark)
+![Satya's Streak Stats](https://streak-stats.demolab.com/?user=Satya2329&theme=dark)
 
 ---
 
