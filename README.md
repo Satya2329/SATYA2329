@@ -22,7 +22,6 @@ I am passionate about building robust backend applications, exploring relational
 
 ### 🔥 My Coding Activity & Metrics
 [![Satya's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Satyapriya-Paikaray&theme=dark)](https://git.io/streak-stats)
-![Satya's Streak Stats](https://streak-stats.demolab.com/?user=Satya2329&theme=dark)
 
 ---
 
