@@ -22,8 +22,7 @@ I am passionate about building robust backend applications, exploring relational
 
 ### 🔥 My Coding Activity & Metrics
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-5%20Days-orange?style=for-the-badge&logo=github)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21%20Days-brightgreen?style=for-the-badge&logo=github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SATYA2329&theme=dark)](https://git.io/streak-stats)
 ---
 
 ### 🤝 Let's Connect!
