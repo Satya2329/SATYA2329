@@ -1,4 +1,4 @@
-# Hi there, I'm Satyapriya Paikaray 👋
+[# Hi there, I'm Satyapriya Paikaray 👋
 
 ### 🚀 Aspiring Software Engineer & Java Developer
 
@@ -29,3 +29,4 @@ I am passionate about building robust backend applications, exploring relational
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyapriyap67@gmail.com)
+](https://www.linkedin.com/in/satyapriya-paikaray-496959250/)
