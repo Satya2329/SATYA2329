@@ -22,16 +22,10 @@ I am passionate about building robust backend architectures, designing relationa
 
 ### 🔥 My Coding Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA2329&theme=dark&cache=false" alt="Satyapriya's GitHub Streak" />
-</p>
+![Satyapriya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SATYA2329&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYA2329&show_icons=true&theme=dark&cache_seconds=1800" alt="Satyapriya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA2329&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
+![Satyapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SATYA2329&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA2329&layout=compact&theme=dark)
 
 ### 📌 Featured Repositories
 
